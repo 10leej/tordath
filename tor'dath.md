@@ -1,0 +1,301 @@
+# The Tor'Dath Campaign Setting
+*Written by Joshua A.E. Lee*  
+  
+[Twitch Chat](https://www.twitch.tv/10leej/)  
+[/r/tordath](https://old.reddit.com/r/tordath/)  
+[Github](https://github.com/10leej/tordath)
+
+# Welcome to The World of Tor'Dath
+Hi I'm Josh I'm writing this setting as I progress through my campaign. So I suggest you bookmark [this page](https://homebrewery.naturalcrit.com/share/-m-ibxHg) and look for updates fairly often.  
+If you're curious on the campaign specifics. It's a homebrew inspired by [Matt Colville's](https://www.youtube.com/user/mcolville) *Running the Game* series and as such you'll see some references.
+
+## The World
+Tor'Dath is a world gripped by political tensions, rising cult activities, and potentially dangerous secrets. From fallen ancient kingdoms, to many various mysteries I personally hope whoever decides to run this setting has much fun as I do.  
+This guide as is, is fairly minimal and that is because Tor'Dath is a player driven world. As such you won't find a single map here (yet), nor a lot of detail in general. As such its a great base for a DM who wan't to homebrew a new setting and modify it to his/her hearts contempt.
+
+## The Content
+This campaign setting was written with the inclusion of Critical Role content, and Eberron's Artificer class. Outside of that you'll want the Core Rule books, and Volo's Guide to Monsters.  
+You'll also want to include optional firearm rules in the Dungeon Matser's Guide (page 267) using just the Rennaisance weapons.  
+Airships do exist but are rare and require a crew of artificers to keep aloft due to their unreliability. (more details coming later)
+
+## Running a D&D Campaign
+I admit, this as is, is not a complete guide. Thats why I said you should bookmark it. As is you'll have to come up with the history of the world though I do have some general guidelines for the history laid out. I'll be updating this document with the history of the world [soon](https://www.urbandictionary.com/define.php?term=soon)  
+
+## Future Plans
+Eventually I'll release a more detailed version and possibly some optional class options specific to the Tor'Dath Campaign Setting. I might even publish some of the adventures I plan to run out of here, who knows.
+
+# Pantheon
+The gods of Tor'Dath are often not referred to by their direct name, but rather they often referred to in descriptive nicknames or aliases. You'll see the most common names listed.  
+The gods are distant from Tor'Dath but they don't leave the planet abandoned, instead they may go only as far as the smallest influence on the world. That said there have been times before where mortal's have ascended to godhood, or even gods have fallen.  
+Malliel stands atop as the lone Head of the Pantheon while the rest serve as his advisors.
+
+## Dro'Kaar
+Domains: Twilight, Grave, Death  
+Symbol: The Gagged Skull  
+Alternative Names: The Moon Lord, The Fallen One  
+Alignment: Chaos
+
+A mysterious god that little is known about. Legends say he once tried to Usurp Malliel but fell to Rapha when she was still on the mortal plane.
+
+## Galador
+Domains: Knowledge, Arcana  
+Symbol: A Scroll in a 6 pointed star  
+Alternative Names: The Scribe, The Secret Keeper  
+Alignment: Law
+
+Golador is the creater of magic, and the one who knows all. He often leaves himself to his practice and avoids conflicts. He often serves as the wise advisor for the other gods. It is said that it is he who helps Maliel maintain order.
+
+## Gonore
+Domains: Light, Forge  
+Symbol: Anvil engraved with a star    
+Alternative Names: The Silver Hand, The Smith  
+Alignment: Law
+
+It is said that Gonore created the stars in the sky and forged the rocks of the land that make up Tor'Dath. It is said that Richa and Idiring are his daughters. It is often thought that it is his temper with Idiring's tenacity that causes the volcanoes to erupt.
+
+## Idring
+Domains: Tempest, War  
+Symbol: Thunderbolt in a First quarter moon  
+Alternative Names: The Stormcaller, The Lade of Battle  
+Alignment: Chaos
+
+Often regarded as the most short tempered of the Gods, Idiring is reponsible for all of the mortal races tendency for war. She is well regarded by the tribal clans of the Orcs and Goliaths.  
+It is said her clashes with her father are what cause the storms of the lands.  
+
+## Maliel
+Domains: Order  
+Symbol: A runed staff etched with a moon, star, anvil, tree, coin, and tombstone  
+Alternative Names: The Staff, The Grand-Elder, The Great-Father  
+Alignment: Law
+
+Maliel is the one who broguht the gods to Tor'Dath. He ordered Gonore to craft the lands, Goladore to supplement the water, and Richa to plant the seeds of life. He alone set the rules for the passge from life to death and tasked Rapha the task of enforcing them. Nimrime to bring the eventual end for the living. Idiring was tasked with introducing the various mortal races to the others of their kind. Little did he know Idiring grew bored with her task and instill the thrill of war into the races. Maliel is often followed by Monks who seek nuetrality in all things.  
+
+## Nimrime
+Domain: Trickery, Death  
+Symbol: Dagger in a coin  
+Alternative Names: The Trickster, The Lord of Secrets  
+Alignment: Chaos
+
+Nimrime rules over the domain of death and intentionally seeks to undermine Rapha through trickery and deception. He is faithful are Thieves, Murdurers, and suprisingly... Merchants. For afterall the greatest merchant... has no competition.
+## Rapha
+Domains: Grave, Blood  
+Symbol: Axe stuck in a tombstone  
+Alternative Names: The Lady Most Kind, The Blood-Soaked Goddess  
+Alignment: Chaos  
+
+Rapha is the Goddess of Vampires, as well as the watcher of the graves. She took upon the task of watching the passage of souls when Dro'Kaar fell. Rapha is considered the youngest of the members of the pantheon and her vampiric heritage brought Blood magic to the world.
+
+## Richa
+Domains: Life, Nature  
+Symbol: Upward pointing Spade in a tree  
+Alternative Names: The Lady of Gardens, The Kind Sister  
+Alignment: Law
+
+Worshipped mostly by farmers Richa is said to be the eldest of the gods second only to Maliel himself. Richa is said to be the one who planted the seeds of life on Tor'Dath it is said that Idiring is her younger sister and Gonore is her father.
+# Nations
+Tor'Dath is a world divided into nations, some live in isolation, others struggle for their very existance. Some try to make and keep peace on the lands, while others seek to eventually conquer it all.  
+This section might get greatly expanded upon.
+
+## Bevelinar
+Bevelinar is a island nation home to Tabaxi and Halflings it's operated by various guilds and companies and oftens sends ships vast distances for trade. There really isn't much of a structured government as a result.
+
+## The Republic of Delios
+Government: Republic  
+Leader: Congressionally elected representatives.  
+Legend says Delios was once a great nation that united all the lands of Tor'Dath. That was said to be the Kingdom of the Gods founded by Maliel himself.  
+Delios does still exist as a nation, though it's much smaller and exists South of the larger Taran Empire.
+
+## Medbia
+Government: Theocracy  
+Medbia is Southeast of Limbuld and serves as the home of the Yaun-Ti. It's often avoided for it's treacherous swamplands and rainforests.
+
+## Pilto
+Government: Kingdom  
+Leader: King Corus Piltoth  
+Pilto is a seafaring island nation and is home of the isolationistic Tritons and ruled by a constitutional monarchy. It's only recently opened it's borders to outsiders though it's rare some are even allowed to enter a city. Even if they're a diplomatic envoy
+
+## Stroth
+Government: Tribal Leadership
+North of Limbul, Stroth is a rough land that is barely even recognized as a nation as it's held together by a vast network of Shamanistic Tribes. Who meet at massive festivals celebrating the seasons to discuss matters.  
+There is a trading town with the same name near the south western border, but does not really act on the affairs of Stroth but more acts to keep an eye on the on goings of the land.  
+
+## Taipan Union
+Government: Confederacy  
+The Taipan Union is a collective of numerous individual states held together in a tight union, effectively functioning as a single nation. It's representatives are usually elected representatives. 
+
+## Taran Empire
+Government: Monarchy  
+Emporer: Tiberius Taranadis  
+The Taran Empire arouse to prominance over the past few hundred years taking over much of the continant south of Limbuld.
+
+## Kingdom of Limbuld
+Government: Constitutional Monarchy  
+Lord: King Elman Limbuld  
+Capital: Cen'Rass   
+### States of Limbuld
+#### Bissel
+Lord: Sir Kemdom Burton  
+Southern territory of Limbuld This area is populated mostly of farming villages and the town of Nulb hosts the League of the Crown's various training facilities.
+#### Durn
+Lord: Pavel Kreeg  
+Capital Vass  
+The northern territorial state of limbuld Durn is the center of the nations industrial activity with the city of mages Vass as it's seat.  
+
+## Kor
+Government: Monarchy  
+Lord: King Olrick Korvald  
+Capital: Kargath  
+The small Dwarven Kingdom located directly west of Limbuld
+
+## Evarian Kingdom
+Government: Elected Council  
+Ruled by The Council of Six  
+Capital: Yllsalin  
+The nation elves which exists southwest of Limbuld.
+
+## Tothwescom
+Government: None Officially  
+Tothwescom is an unorganized nation north of Stroth. It's comprised almost entirely of mountains and serves as the home of some sparsely populated tribes.  
+Much like Stroth however, Tothwescom's closest form of government is comprised of various tribes though they seem much less likely to cooperate and focus more of their spiritual worship and survival.  
+The city of Camor sits deep in the moutains far from the prying eyes of Limbuld and is the home of the Order of Storms
+
+
+# Organizations
+## Brotherhood of Blood
+A fanatical cult of Rahpha's clerics, zealots, and blood hunters. Often you'll find these members in lonely temples, though they don't deal with sacrifices. Often.
+
+## Brotherhood of the Staff
+An order of monks in service of Maliel, it's not uncommon for monks of this order going on extensive journies to study the lands of the world.
+
+## Order of Gardens
+An order of followers in service of Richa, then often tend to the gardens of various lords as well as aid farmers of the lands.
+
+## College of Science Arcana
+Mages, Alchemist, and alike join this guild in search of creating a better world through Science. You’ll often see it’s members spread across the land searching ancient ruins for lost magic or technology. Unlike the Mages Society, they do follow an ethical code of conduct. They're home base is in Vass
+
+## College of the Arts
+An organization for traveling bards and artists, often many of its members are typically members of other organizations as well. They operate in schools and colleges often found in the largest cities in the land.
+
+## Historica Ordinis
+An order of historians that travel the lands in service of Galador recording historical events.
+
+## Order of the Sacred Flame
+An order of clerics in service of Gonore they maintain several temples and will often be the first to come to aid in natural disasters to help rebuild.
+
+## Order of the Twisted Dagger
+A relatively secretive order they serve more or less as an organization of Rogues.
+
+## Order of Storms
+An isolated order of clerics based in the mountains of Tothwescom in the distant city of Camor
+
+## Fellowship of the hunt
+An organization of hunter's
+
+## The Delian Order
+An ancient order of knights that swear loyalty to Maliel. In service of the Nation of Delios
+
+## The League of the Crown
+The order of knights in service to the Kingdom of Limbuld
+
+## The Mages Society
+ The Mages Society is filled mages who have taken a more fanatical study in the arts of the magic. With little to no care about the ethical dilemmas. The organization itself has taken to seeking out ancient ruins though for what purpose it is unknown.
+
+## The National Inquirer
+The National Inquirer is a news paper published out of Cen'Rass that hires messengers to travel the Kingdom of Limbuld to spread the news.  
+
+## The Scale Consortium
+Merchant's Guild  
+Often travelling merchants and more rural shopkeepers are members of this guild as it helps keep them afloat in times of need.
+
+## Union of the Fine Crafts
+A guild of the fine crafts, from wood turning to gun smithing, if you have the coin. They have the talent to make it.
+
+# Races
+Tor'Dath is home to all the races found in every published content for your RPG, though this setting was designed for a D&D 5e campaign in particular. It's not exactly difficult to find a place for each race and there really aren't any new races intended for Tor'Dath at this time. As this campaign setting expands this may be subject to change.
+
+## The Common Races
+You find these races with a sizable population in most every nation and they are generally accepted by the masses.
+
+### Dwarves
+Dwarves are more numerous in the southern mountain regions of the eastern continent, but are still a fairly common sight.
+
+### Elves
+There is rarely a forest without an elf, though they often tend to seclude themselves to the said forests it’s not unusual to see them out in the world as well. They are most numerous in the forests of Elvaria and Pelechinia.
+
+### Halflings
+Half hail from Bevelinar. They’ve even taken up as a rather wealthy seafaring race in the past couple hundred years and have become a fairly common sight among the sailors of Tor'Dath.
+
+### Humans
+Humans are the most numerous race in the lands, there is barely a nation or land that does not have at least a medium portion of humans in it’s population.
+
+## The Uncommon Races
+Just a note, in some parts of the world members of these races are treated very unfriendly, or even potentially hunted down.  
+*Monstrous Races from Volo's Guide to monsters are allowed though may not be referenced in this guide*
+
+### Goliaths
+All Goliaths call Tothwescom home even if they’ve never been there. You’ll often find the Goliath tribes in the tallest and coldest of mountain ranges.
+
+### Half-Elves
+Half-Elves are born from a human and elf parent and are often treated fairly better than most of the other uncommon races, but to a human they look like elves. And, to elves they look like humans. This leads many half-elves to live a secluded life.
+
+### Half-Orcs
+Often born to a human and orc parents the Half-Orcs are treated well for Orcs, but not so well the humans of the kingdoms. Thus you’ll only really see a sizable population in Stroth living among the barbaric orc tribes or the more shamanist tribes of the Stroth.
+
+### Kenku
+Kenku are a cursed race of ancient Chernians where they ruled over a vast empire that collapsed thousands of years ago and is mostly forgetten in mortal memory. At least for those that are not among the Kenku. Today you'll see the Kenku most often in the Taran Empire near their ancient homeland
+
+### Orc
+Often living in tribes Orc are the most numerous of the uncommon races, though when you see one outside of Tothwescom or Stroth it’s because the tribe lost it’s territory to another.
+
+### Tabaxi
+The Tabaxi hail from Bevelinar and much like Halflings sail on the high seas trading with the various nations.
+
+### Tiefling
+Often mistaken the demons the Tiefling’s of Tor’Dath actually are suprisingly more related to the Yaun-Ti than humans, though no one is truly sure of the Tiefling race’s origin. It’s not so uncommon to see a Tiefling outside of Medbia or the Taran Empire, but even then it’s rare enough that many people might only ever meet a single one even among the Tiefling themselves.
+
+### Triton
+Hailing exclusively from the seafaring nation of Pilto the Triton are a very isolationist society. As a result many areas might not have seen a Triton for generations let alone even believe they actually exist.
+
+# Classes
+## Artificer
+True Artificer's are fairly rare due to the newer advances in the arcane sciences. Most of the artificers you'll find are based in the Limbuldian City of Vass, or Service the guilds in the Taipan Union or Bevelinar.
+
+## Barbarian
+Barbarian's are often coming from the tribal lands of Tothwescom and Stroth. Surviving the harsh shamanist lands they're used to rough weather, cold winters, and don't usually trust the magics of Wizards, Clerics, Artificers, or Bards
+
+## Bard
+Bards exist and use magic with their performances, some are more practiced in forms of combat, but usually only for show purposes. Most general bards come from the great cities of Vass, Cen'Rass, Bevelinar, and the Taipan Union
+
+## Blood Hunter
+[Blood Hunters](https://www.dmsguild.com/product/301641/Blood-Hunter-Class-for-DD-5e-2020) are usually followers of Rapha who are willing to sacrifice everything to fight their enemies. They often are not welcomed by those more practiced in the magical arts as the magic they practice is usually linked with vampirism.
+
+## Cleric
+*(Note for DMs, I allow the use of Blood Clerics from the Tal'Dorei Campaign Setting)*  
+Clerics serve many roles in Tor'Dath, while they aren't always aligned with a specific organization you'll see clerics far and wide across the lands. Clerics draw their power mostly much the same way Wizards do. But, they shape their magics to follow the domains of their church. This means a cleric will never really change their domain due to devine influence and if they do they must take the time to learn the new magics.
+
+## Druid
+Druids are often found in isolated groups or conclaves and don't align with a god usually. Though when they do they often follow Richa or Idring. Druids typically live in enclaves scatterred throughout the lands and have younger members go on great pilgrimmages to learn the ways of the world.
+
+## Fighter
+Fighters are everywhere as a staple of Fantasy worlds you'll see fights from every race. They serve as guards, gladiators, hunters, what have you. The [Gunsligner Martial Archetype](https://www.dmsguild.com/product/170778/Gunslinger-Martial-Archetype-for-Fighters) written by Mathew Mercer is recommended though I admit I don't have a player running it.
+
+## Monk
+Monks are often followers of Maliel and live in the various monasteries practicing his teachings. You'll often see Monks go on pilgrimages to learn the methods of the world. Or even act as sages for organizations of such *Historica Ordinis*
+
+## Paladin
+Paladin's on Tor'Dath do not gain their powers from gods unlike some worlds, instead their power stems from the Oaths they have taken and the ancient magics behind them. That said a paladin who takes no oath is powerless, while the Oathbreaker paladin stands as a paladin who has broken an aspect of his oath. Over the course of a paladin's life it's not unusual for his powers to change based upon the oaths he has taken.
+
+## Ranger
+Rangers are often found exploring the various lands hunting game, or just serving on expeditions. Often they've adapted their own forms of magics through self learning to adapt to their surrounds, or even the prey they seek to hunt.
+
+## Rogue
+Rogues often operate as thieves or assasins either for hire, or out of necessity. Or even for the thrill of it.
+
+## Sorceror
+Sorcerors are often either revered for their raw power, or feared because of it by the various practicioners in the magical arts of the lands. Many sorcorer's go on great journeys to learn to control their powers whether they be gained from exterior sources such as exposure to the raw magic of the leylines, the demonic magics of the demons, or even the blood of dragons. Sorcerors on Tor'Dath don't just happen to be born with these powers and those powers will always have a source. Whether they want to seek it out, or not.
+
+## Warlock
+Warlocks due to how they gain their power are often shunned or even criminalized in some areas. That said with the direct absence of the gods the powers of demonic influence are made more apparent, and warlocks gain there powers through the contracts and pacts signed with fiends, celestials, or even ancient beings of great power.
+
+## Wizard
+Wizards are the trained magicians and the most common practiciners of the lands. They even have their own city in Vass located within the northern area of the Kingdom of Limbuld. With patience and a bit of practice via practical means Wizards have been know to raid fire from the skies, or even bend time and reality to their will.
