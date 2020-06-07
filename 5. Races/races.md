@@ -1,0 +1,2 @@
+# Races
+Tor'Dath is home to all the races found in every published content for your RPG, though this setting was designed for a D&D 5e campaign in particular. It's not exactly difficult to find a place for each race and there really aren't any new races intended for Tor'Dath at this time. As this campaign setting expands this may be subject to change.
