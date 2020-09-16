@@ -1,8 +1,7 @@
 # Nations
 Tor'Dath is a world divided into nations, some live in isolation, others struggle for their very existance. Some try to make and keep peace on the lands, while others seek to eventually conquer it all.  
 
-##
-The general layout of Tor'Dath
+## The general layout of Tor'Dath
 
 ### Big Nations
 The Kingdom of Limbuld is at the center  
