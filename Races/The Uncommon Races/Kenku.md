@@ -1,2 +1,3 @@
 # Kenku
-Kenku are a cursed race of ancient Chernians where they ruled over a vast empire that collapsed thousands of years ago and is mostly forgetten in mortal memory. At least for those that are not among the Kenku. Today you'll see the Kenku most often in the Taran Empire near their ancient homeland
+The Kenku on tordath are not cursed like they are on the Forgotten Realms, while still expert mimics they have the ability of independent thought and speech. Although their speech is somewhat broken (somehting about beaks).  
+Largely the Kenku can be found in many of the smaller nations that make up the Taipan Union or the free cities of Bevelinar, but the largest population resides in the southern parts of Taran and Medbia.
