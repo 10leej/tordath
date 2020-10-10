@@ -24,9 +24,6 @@ Currently the license for The Tor'Dath Campaign setting is Creative Commons Attr
 
 ## Future Plans
 As time goes on I'll be adding more and more information to this world. Be very wary as currently this is a living document (again bookmarks or Git follows are a good thing to have).
-<<<<<<< HEAD
 
 ## How to Contribute
 Well there's this [helpful issue](https://github.com/10leej/tordath/issues/1) that's been opened, give it a quick read.
-=======
->>>>>>> 1a5500d103ea733e8edeffb348184fc1750b6f64
