@@ -1,6 +1,6 @@
 ## Pilto
 Government: Kingdom  
-Leader: King Corus Piltoth
+Leader: King Corus Piltoth  
 Capital: Navnadiv  
 
 Pilto is a seafaring island nation and is home of the isolationistic Tritons and ruled by a constitutional monarchy. 
