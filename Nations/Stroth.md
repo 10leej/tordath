@@ -1,5 +1,6 @@
 ## Stroth
-Government: Tribal Leadership
+Government: Tribal Leadership  
+
 North of Limbul, Stroth is a rough land that is barely even recognized as a nation as it's held together by a vast network of Shamanistic Tribes. Who meet at massive festivals celebrating the seasons to discuss matters. While the various tribes of Stroth might not always get along the lands of Stroth are their home and the tribes will join forces to defend it if they have to.
 
 Prominant Clans:  
