@@ -1,7 +1,8 @@
 ## Pilto
 Government: Kingdom  
-Leader: King Corus Piltoth
-Capital: Navnadiv
+Leader: King Corus Piltoth  
+Capital: Navnadiv  
+
 Pilto is a seafaring island nation and is home of the isolationistic Tritons and ruled by a constitutional monarchy. 
 
 It was originally founded by the God-King Navnas Daralath, after he united the warring states of the land through a combination of conquest and displays of divine power. He brought a golden era onto Pilto, with a population boom, many technological improvements, and even colonies on the mainland. Pilto became a naval superpower on the world stage. During his rein, the vast majority of Tritons began worshiping him, though a small few held on to the old beliefs. It came to be believed that when the body of a ruler dies, the spirit of Navnas Daralath transitions to the body of the rightful heir. Thus the collective knowledge and power of Navnas Daralath builds as each generation passes. 
