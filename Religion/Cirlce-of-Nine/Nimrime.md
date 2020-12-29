@@ -1,5 +1,5 @@
 ## Nimrime
-Domain: Trickery, Death  
+Domain: Trickery,   
 Symbol: Dagger in a coin  
 Alternative Names: The Trickster, The Lord of Secrets  
 Alignment: Chaos
